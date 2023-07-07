@@ -37,7 +37,7 @@ body {
   background-color: transparent;
   display: flex;
   justify-content: center;
-  font-size: 25*0.123vh;
+  font-size: 25*0.073vw;
 }
 
 .navbar li {
@@ -48,7 +48,7 @@ body {
   display: block;
   color: white;
   text-align: right;
-  padding: 14*0.123vh 16*0.123vh;
+  padding: 14*0.073vw 16*0.123vh;
   text-decoration: none;
 }
 
@@ -56,14 +56,14 @@ body {
   background-color:#47c7f5;
   transition: background-color 0.3s ease-in-out;
   color: white;
-  border-radius: 25*0.123vh;
+  border-radius: 25*0.073vw 25*0.123vh;
 }
 
 /* Second Navbar Styles */
 .navbar2 {
   background-color: transparent;
   color: white;
-  padding: 10*0.123vh;
+  padding: 10*0.073vw 10*0.123vh;
   margin-top: 100*0.123vh;
   text-align: center;
 }
@@ -72,14 +72,14 @@ body {
 .navbar3 {
   background-color: transparent;
   color: white;
-  padding: 10*0.123vh;
+  padding: 10*0.073vw 10*0.123vh;
   margin-top: 30*0.123vh;
   text-align: center;
 }
 .navbar4 {
   background-color: transparent;
   color: white;
-  padding: 10*0.123vh;
+  padding: 10*0.073vw 10*0.123vh;
   margin-top: 50*0.123vh;
   text-align: center;
 }
@@ -95,17 +95,17 @@ body {
 }
 
 .contact-box {
-  padding: 10*0.123vh;
+  padding: 10*0.073vw 10*0.123vh;
 }
 
 .contact-details {
   background-color: transparent;
   color: white;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
-  padding: 20*0.123vh;
+  padding: 20*0.073vw 20*0.123vh;
   text-align: center;
-  border-radius: 5*0.123vh;
+  border-radius: 5*0.073vw 5*0.123vh;
 }
 
 
@@ -118,7 +118,7 @@ body {
 .detail .value {
   position: relative; /* Add position relative to create stacking context */
   z-index: 1; /* Ensure the text appears above other elements */
-  font-size: 18*0.123vh;
+  font-size: 18*0.073vw;
   font-weight: bold;
   color: transparent;
 }
@@ -136,155 +136,155 @@ body {
 .detail .det1 {
   background-image: url(../img/1.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
 }
 .detail .det1:hover {
   background-image: url(../img/2.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 
 .detail .det2{
   background-image: url(../img/3.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det2:hover {
   background-image: url(../img/4.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det3{
   background-image: url(../img/11.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det3:hover {
   background-image: url(../img/12.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det4{
   background-image: url(../img/5.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det4:hover {
   background-image: url(../img/6.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det5{
   background-image: url(../img/7.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det5:hover {
   background-image: url(../img/8.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det6{
   background-image: url(../img/9.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det6:hover {
   background-image: url(../img/10.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det7{
   background-image: url(../img/13.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det7:hover {
   background-image: url(../img/14.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200**0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det8{
   background-image: url(../img/15.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det8:hover {
   background-image: url(../img/16.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det9{
   background-image: url(../img/17.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;  
+  border-radius: 10*0.073vw 10*0.123vh;  
 }
 .detail .det9:hover {
   background-image: url(../img/18.png);
   background-size: cover;
-  width: 200*0.123vh;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
-  border-radius: 10*0.123vh;
+  border-radius: 10*0.073vw 10*0.123vh;
   transition: background-image 0.2s ease-in-out;
 }
 
