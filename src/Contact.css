@@ -247,7 +247,7 @@ body {
 .detail .det7:hover {
   background-image: url(../img/14.png);
   background-size: cover;
-  width: 200**0.073vw;
+  width: 200*0.073vw;
   height: 200*0.123vh;
   text-align: center;
   border-radius: 10*0.073vw 10*0.123vh;
