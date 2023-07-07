@@ -31,13 +31,13 @@ body {
 
 .navbar ul {
   list-style-type: none;
-  margin-left: 30%;
+  margin-left: 20%;
   padding: 0;
   overflow: hidden;
   background-color: transparent;
   display: flex;
   justify-content: center;
-  font-size: 1.7vw;
+  font-size: 1.5vw;
 }
 
 .navbar li {
