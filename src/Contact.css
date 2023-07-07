@@ -37,7 +37,7 @@ body {
   background-color: transparent;
   display: flex;
   justify-content: center;
-  font-size: 25px;
+  font-size: 2vw;
 }
 
 .navbar li {
@@ -48,7 +48,7 @@ body {
   display: block;
   color: white;
   text-align: right;
-  padding: 14px 16px;
+  padding: 1.5vw 2vh;
   text-decoration: none;
 }
 
@@ -56,15 +56,15 @@ body {
   background-color:#47c7f5;
   transition: background-color 0.3s ease-in-out;
   color: white;
-  border-radius: 25px;
+  border-radius: 1vw;
 }
 
 /* Second Navbar Styles */
 .navbar2 {
   background-color: transparent;
   color: white;
-  padding: 10px;
-  margin-top: 100px;
+  padding: 2vh;
+  margin-top: 12vh;
   text-align: center;
 }
 
@@ -72,20 +72,20 @@ body {
 .navbar3 {
   background-color: transparent;
   color: white;
-  padding: 10px;
-  margin-top: 30px;
+  padding: 2vh;
+  margin-top: 4vh;
   text-align: center;
 }
 .navbar4 {
   background-color: transparent;
   color: white;
-  padding: 10px;
-  margin-top: 50px;
+  padding: 2vh;
+  margin-top: 6vh;
   text-align: center;
 }
 /* Contact Section Styles */
 .contact-section {
-  margin-top: 10px;
+  margin-top: 2vh;
 }
 
 .contact-row {
@@ -95,22 +95,24 @@ body {
 }
 
 .contact-box {
-  padding: 10px;
+  padding: 2vh;
 }
 
 .contact-details {
   background-color: transparent;
   color: white;
-  width: 200px;
-  height: 200px;
-  padding: 20px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
+  padding: 3vw;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 3vw;
 }
 
 
 .detail {
-  margin-bottom: 10px;
+  margin-bottom: 2vh;
   position: relative;
   overflow: hidden; /* Ensure the child elements don't overflow */
 }
@@ -118,7 +120,7 @@ body {
 .detail .value {
   position: relative; /* Add position relative to create stacking context */
   z-index: 1; /* Ensure the text appears above other elements */
-  font-size: 18px;
+  font-size: 1.3vw;
   font-weight: bold;
   color: transparent;
 }
@@ -136,154 +138,191 @@ body {
 .detail .det1 {
   background-image: url(../img/1.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
 }
 .detail .det1:hover {
   background-image: url(../img/2.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 
 .detail .det2{
   background-image: url(../img/3.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det2:hover {
   background-image: url(../img/4.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det3{
   background-image: url(../img/11.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det3:hover {
   background-image: url(../img/12.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det4{
   background-image: url(../img/5.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det4:hover {
   background-image: url(../img/6.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det5{
   background-image: url(../img/7.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det5:hover {
   background-image: url(../img/8.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det6{
   background-image: url(../img/9.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det6:hover {
   background-image: url(../img/10.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det7{
   background-image: url(../img/13.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det7:hover {
   background-image: url(../img/14.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det8{
   background-image: url(../img/15.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det8:hover {
   background-image: url(../img/16.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det9{
   background-image: url(../img/17.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: 200px;
+  max-height: 200px;
   text-align: center;
-  border-radius: 10px;  
+  border-radius: 2vw;  
 }
 .detail .det9:hover {
   background-image: url(../img/18.png);
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
   text-align: center;
-  border-radius: 10px;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
+
