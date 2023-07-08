@@ -2,7 +2,9 @@
 <html>
 <head>
   <title>Rhapsody</title>
-  <link rel="stylesheet" type="text/css" href="src/styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="script.js"></script>
 </head>
 <body>
   <nav class="navbar">
@@ -17,6 +19,17 @@
       <li><a href="src/Merchandise.html">Merchandise</a></li>
       <li><a href="src/Contact.html">Contact us</a></li>
     </ul>
+    <div class="dropdown">
+        <button onclick="toggleDropdown()" class="dropdown-toggle">Menu &#9662;</button>
+        <div class="dropdown-content">
+          <a href="Culturals.html">Cultural</a>
+          <a href="Sports.html">Sports</a>
+          <a href="Tech.html">Tech</a>
+          <a href="Sponsors.html">Sponsors</a>
+          <a href="Merchandise.html">Merchandise</a>
+          <a href="Contact.html">Contact us</a>
+        </div>
+      </div>
   </nav>
 
   <section class="content">
