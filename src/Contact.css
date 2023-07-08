@@ -199,8 +199,8 @@ body {
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
-.detail .det4{
-  background-image: url(../img/5.png);
+.detail .det5{
+  background-image: url(../img/7.png);
   background-size: cover;
   width: 15vw;
   height: 15vw;
@@ -209,8 +209,8 @@ body {
   text-align: center;
   border-radius: 2vw;  
 }
-.detail .det4:hover {
-  background-image: url(../img/6.png);
+.detail .det5:hover {
+  background-image: url(../img/8.png);
   background-size: cover;
   width: 15vw;
   height: 15vw;
@@ -219,7 +219,6 @@ body {
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
-}
 .detail .det6{
   background-image: url(../img/9.png);
   background-size: cover;
