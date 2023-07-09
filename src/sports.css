@@ -3,8 +3,8 @@ body {
     padding: 0;
     font-family: Libre Baskerville;
     background: linear-gradient(to bottom, #000000,#000000 ,#141010, #582020,#8f2e2e);
-    height: 100%;
-  }
+    min-height: 100vh;
+}
 
   .navbar {
     position: fixed;
