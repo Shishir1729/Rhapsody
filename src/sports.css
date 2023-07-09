@@ -149,7 +149,7 @@ body {
 
 
 .detail .det1 {
-  background-image: url(../img/melomania.jpg);
+  background-image: url(../img/CRICKET.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -157,7 +157,7 @@ body {
   border-radius: 2vw;
 }
 .detail .det2{
-  background-image: url(../img/yathartha.jpg);
+  background-image: url(../img/BASKETBALL.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -165,7 +165,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det3{
-  background-image: url(../img/zest.jpg);
+  background-image: url(../img/FOOTBALL.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -173,7 +173,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det4{
-  background-image: url(../img/Enchant.jpg);
+  background-image: url(../img/HANDBALL.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
