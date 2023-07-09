@@ -150,7 +150,7 @@ body {
 
 
 .detail .det1 {
-  background-image: url(../img/"CODING ARENA.png");
+  background-image: url(../img/"CODING_ARENA.png");
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -166,7 +166,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det3{
-  background-image: url(../img/"RC Nitro.jpg");
+  background-image: url(../img/"RC_Nitro.jpg");
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -182,7 +182,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det5{
-  background-image: url(../img/"Treasure Hunt.jpg");
+  background-image: url(../img/"Treasure_Hunt.jpg");
   background-size: cover;
   width: 14vw;
   height: 20vw;
