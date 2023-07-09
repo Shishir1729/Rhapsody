@@ -179,22 +179,6 @@ body {
   text-align: center;
   border-radius: 1vw;  
 }
-.detail .det5{
-  background-image: url(../img/Comedy.jpg);
-  background-size: cover;
-  width: 14vw;
-  height: 20vw;
-  text-align: center;
-  border-radius: 10px;  
-}
-.detail .det6{
-  background-image: url(../img/Luminare.jpg);
-  background-size: cover;
-  width: 14vw;
-  height: 20vw;
-  text-align: center;
-  border-radius: 1vw;  
-}
 
 /* Dropdown Styles */
 .dropdown {
