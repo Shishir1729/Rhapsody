@@ -5,9 +5,12 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: Libre Baskerville;
-  background: linear-gradient(to bottom, #000000,#000000 ,#141010, #582020,#8f2e2e);
-  min-height: 100vh;
 }
+.black-bg {
+    background: linear-gradient(to bottom, #000000, #141010, #302626,#5e2f2f);
+    padding: 20px;
+    color: white;
+  }
 
 .navbar {
   position: absolute;
