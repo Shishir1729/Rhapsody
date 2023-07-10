@@ -121,7 +121,7 @@ body {
 .detail .value {
   position: relative; /* Add position relative to create stacking context */
   z-index: 1; /* Ensure the text appears above other elements */
-  font-size: 1.3vw;
+  font-size: 1vw;
   font-weight: bold;
   color: transparent;
 }
