@@ -190,7 +190,7 @@ body {
   border-radius: 10px;  
 }
 .detail .det12{
-  background-image: url(../img/21.png);
+  background-image: url(../img/19.png);
   background-size: cover;
   width: 21vw;
   height: 21vw;
@@ -198,7 +198,7 @@ body {
   border-radius: 15vw;
 }
 .detail .det12:hover{
-  background-image: url(../img/22.png);
+  background-image: url(../img/20.png);
   background-size: cover;
   width: 21vw;
   height: 21vw;
