@@ -183,6 +183,23 @@ body {
   text-align: center;
   border-radius: 1vw;  
 }
+.detail .det12{
+  background-image: url(../img/21.png);
+  background-size: cover;
+  width: 21vw;
+  height: 21vw;
+  text-align: center;
+  border-radius: 15vw;
+}
+.detail .det12:hover{
+  background-image: url(../img/22.png);
+  background-size: cover;
+  width: 21vw;
+  height: 21vw;
+  text-align: center;
+  border-radius: 15vw;
+  transition: background-image 0.2s ease-in-out;
+}
 
 /* Dropdown Styles */
 .dropdown {
