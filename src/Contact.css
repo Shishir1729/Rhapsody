@@ -9,6 +9,7 @@ body {
 .black-bg {
     background: linear-gradient(to bottom, #000000, #141010, #302626,#5e2f2f);
     padding: 20px;
+    color: white;
   }
 
 .navbar {
