@@ -33,7 +33,7 @@ body {
     background-color: transparent;
     display: flex;
     justify-content: center;
-    font-size: 1.5vw;
+    font-size: 1.3vw;
   }
   
   .navbar li {
@@ -44,7 +44,7 @@ body {
     display: block;
     color: white;
     text-align: right;
-    padding: 1vw 2vh;
+    padding: 0.5vw 2vh;
     text-decoration: none;
   }
   
@@ -52,7 +52,7 @@ body {
     background-color:#47c7f5;
     transition: background-color 0.3s ease-in-out;
     color: white;
-    border-radius: 1.5vw;
+    border-radius: 1vw;
   }
   .black {
     background: linear-gradient(to bottom, #000000, #141010, #302626);
