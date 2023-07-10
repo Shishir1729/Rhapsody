@@ -130,7 +130,7 @@ body {
   
   .text-content h1 {
     font-family: Libre Franklin;
-    font-size: 10vw;
+    font-size: 4vw;
     margin-bottom: 20px;
   }
   
@@ -165,12 +165,12 @@ body {
 
   .box .text-content h2 {
     font-family: Libre Franklin;
-    font-size: 35px;
+    font-size: 3vw;
     margin-bottom: 10px;
   }
 
   .box .text-content p {
-    font-size: 20px;
+    font-size: 1.5vw;
     line-height: 1.5;
   }
 
