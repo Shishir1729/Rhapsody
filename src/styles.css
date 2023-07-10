@@ -63,7 +63,7 @@ html,body {
   .full-screen-image {
     position: relative;
     width: 100vw;
-    height: 100vh
+    height: 100vh;
     overflow: hidden;
     filter:blur(0.7);
   }
