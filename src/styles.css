@@ -52,7 +52,7 @@ body {
     background-color:#47c7f5;
     transition: background-color 0.3s ease-in-out;
     color: white;
-    border-radius: 25px;
+    border-radius: 1vw;
   }
   
   .content {
