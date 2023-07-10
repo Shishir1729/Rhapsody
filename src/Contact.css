@@ -104,8 +104,6 @@ html, body {
   color: white;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   padding: 3vw;
   text-align: center;
   border-radius: 3vw;
@@ -141,8 +139,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
 }
@@ -151,7 +147,7 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
+   ;
   max-height: 200px;
   text-align: center;
   border-radius: 2vw;
@@ -163,8 +159,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -173,8 +167,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -184,8 +176,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -194,8 +184,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -205,8 +193,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -215,8 +201,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -226,8 +210,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -236,8 +218,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -247,8 +227,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -257,8 +235,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -268,8 +244,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -278,8 +252,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -289,8 +261,6 @@ html, body {
   background-size: cover;
   width: 15vw;
   height: 15vw;
-  max-width: 200px;
-  max-height: 200px;
   text-align: center;
   border-radius: 2vw;  
 }
@@ -300,8 +270,6 @@ html, body {
   width: 15vw;
   height: 15vw;
   text-align: center;
-  max-width: 200px;
-  max-height: 200px;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
 }
