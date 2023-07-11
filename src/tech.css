@@ -150,7 +150,7 @@ body {
 
 
 .detail .det1 {
-  background-image: url(../img/CODING_ARENA.png);
+  background-image: url(../img/GAMING.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -188,6 +188,14 @@ body {
   height: 20vw;
   text-align: center;
   border-radius: 10px;  
+}
+.detail .det6{
+  background-image: url(../img/Virtual Trading.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
 }
 .detail .det12{
   background-image: url(../img/19.png);
