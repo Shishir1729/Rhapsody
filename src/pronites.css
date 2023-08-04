@@ -108,6 +108,7 @@ body {
     text-align: center;
     border-radius: 5px;
     font-size: 1.5vw;
+    padding: 1vw;
 }
 
 .register-button:hover {
