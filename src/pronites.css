@@ -99,6 +99,23 @@ body {
   text-align: center;
 }
 
+.register-button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: #FF0000; /* Red color for the button */
+    width: 15vw;
+    height: 5vw;
+    line-height: 5vw; /* To vertically center the text in the button */
+    text-align: center;
+    border-radius: 5px;
+    font-size: 1.5vw;
+}
+
+.register-button:hover {
+    background-color: #CC0000; /* Lighter shade of red on hover */
+}
+
 /* Contact Section Styles */
 .contact-section {
   margin-top: 2vh;
