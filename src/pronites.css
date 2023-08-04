@@ -103,7 +103,7 @@ body {
     display: inline-block;
     text-decoration: none;
     color: white;
-    background-color: #FF0000; /* Red color for the button */
+    background-color: #666666; /* Gray color for the button */
     width: 15vw;
     height: 5vw;
     line-height: 5vw; /* To vertically center the text in the button */
@@ -113,7 +113,7 @@ body {
 }
 
 .register-button:hover {
-    background-color: #CC0000; /* Lighter shade of red on hover */
+    background-color: #444444; /* Slightly darker shade of gray on hover */
 }
 
 /* Contact Section Styles */
@@ -159,11 +159,6 @@ body {
 }
 
 
-
-.detail :hover {
-  filter: brightness(0.5);
-  transition: filter 0.3s ease-in-out;
-}
 
 
 .detail .det1 {
