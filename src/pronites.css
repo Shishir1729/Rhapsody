@@ -152,10 +152,10 @@ body {
 .detail .det1 {
   background-image: url(../img/ravatar.jpg);
   background-size: cover;
-  width: 14vw;
-  height: 20vw;
+  width: 20vw;
+  height: 20.5vw;
   text-align: center;
-  border-radius: 2vw;
+  border-radius: 1vw;
 }
 
 /* Dropdown Styles */
