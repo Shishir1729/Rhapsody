@@ -152,9 +152,7 @@ body {
   text-align: center;
   border-radius: 2vw;
 }
-.detail :hover{
-  filter:brightness(0.7)
-}
+
 .detail .det12{
   background-image: url(../img/udi.jpg);
   background-size: cover;
