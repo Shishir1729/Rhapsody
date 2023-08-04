@@ -153,9 +153,9 @@ body {
   background-image: url(../img/ravatar.jpg);
   background-size: cover;
   width: 20vw;
-  height: 20.5vw;
+  height: 20vw;
   text-align: center;
-  border-radius: 1vw;
+  border-radius: 2vw;
 }
 
 /* Dropdown Styles */
