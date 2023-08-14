@@ -72,6 +72,33 @@ body {
     font-size: 50px;
   }
 
+.register{
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 2vh;
+}
+
+.register-button {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: #FF0000; /* Gray color for the button */
+  width: 10vw;
+  height: 5vw;
+  line-height: 5vw; /* To vertically center the text in the button */
+  text-align: center;
+  border-radius: 5px;
+  font-size: 2.5vw;
+  font-style: bold;
+  padding: 1vw;
+}
+
+.register-button:hover {
+  background-color: #CC0000; /* Slightly darker shade of gray on hover */
+  transform: scale(1.1);
+}
+
 /* Dropdown Styles */
 .dropdown {
   display: none;
