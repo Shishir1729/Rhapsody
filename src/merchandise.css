@@ -59,6 +59,147 @@ body {
     color: white;
     border-radius: 1vw;
   }
+/* Second Navbar Styles */
+.navbar2 {
+  background-color: transparent;
+  color: white;
+  padding: 2vh;
+  margin-top: 12vh;
+  text-align: center;
+}
+
+/* Third Navbar Styles */
+.navbar3 {
+  background-color: transparent;
+  color: white;
+  padding: 2vh;
+  margin-top: 4vh;
+  text-align: center;
+}
+.navbar4 {
+  background-color: transparent;
+  color: white;
+  padding: 2vh;
+  margin-top: 6vh;
+  text-align: center;
+}
+
+/* Contact Section Styles */
+.contact-section {
+  margin-top: 2vh;
+}
+
+.contact-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contact-box {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 3vw;
+}
+
+.contact-details {
+  background-color: transparent;
+  color: white;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 3vw;
+  text-align: center;
+  border-radius: 3vw;
+}
+
+
+.detail {
+  margin-bottom: 2vh;
+  position: relative;
+  overflow: hidden; /* Ensure the child elements don't overflow */
+}
+
+.detail .value {
+  position: relative; /* Add position relative to create stacking context */
+  z-index: 1; /* Ensure the text appears above other elements */
+  font-size: 1.3vw;
+  font-weight: bold;
+  color: transparent;
+}
+
+
+
+.detail :hover {
+  filter: brightness(0.5);
+  transition: filter 0.3s ease-in-out;
+}
+
+
+.detail .det1 {
+  background-image: url(../img/melomania.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 2vw;
+}
+.detail .det2{
+  background-image: url(../img/yathartha.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det3{
+  background-image: url(../img/zest.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det4{
+  background-image: url(../img/Enchant.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det5{
+  background-image: url(../img/Comedy.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 10px;  
+}
+.detail .det6{
+  background-image: url(../img/Luminare.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det12{
+  background-image: url(../img/21.png);
+  background-size: cover;
+  width: 21vw;
+  height: 21vw;
+  text-align: center;
+  border-radius: 15vw;
+}
+.detail .det12:hover{
+  background-image: url(../img/22.png);
+  background-size: cover;
+  width: 21vw;
+  height: 21vw;
+  text-align: center;
+  border-radius: 15vw;
+  transition: background-image 0.2s ease-in-out;
+}
+
   .black {
     background: linear-gradient(to bottom, #000000, #141010, #302626);
     position: fixed;
