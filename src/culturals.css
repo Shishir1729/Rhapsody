@@ -136,7 +136,7 @@ body {
 
 
 .detail .det1 {
-  background-image: url(../img/melomania.jpg);
+  background-image: url(../img/Tarangini.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -144,7 +144,7 @@ body {
   border-radius: 2vw;
 }
 .detail .det2{
-  background-image: url(../img/yathartha.jpg);
+  background-image: url(../img/Chimeraa.png);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -152,7 +152,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det3{
-  background-image: url(../img/zest.jpg);
+  background-image: url(../img/Zest_Poster.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -168,7 +168,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det5{
-  background-image: url(../img/Comedy.jpg);
+  background-image: url(../img/Comedy.png);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -177,6 +177,41 @@ body {
 }
 .detail .det6{
   background-image: url(../img/Luminare.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det7{
+  background-image: url(../img/CookingWithoutFire.jpeg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+
+.detail .det8{
+  background-image: url(../img/Dance.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+
+.detail .det9{
+  background-image: url(../img/Mushaira_Poster.png);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+
+.detail .det10{
+  background-image: url(../img/Battle_of_Bands.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
