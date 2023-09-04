@@ -69,17 +69,16 @@ body {
     margin-top: 12vh;
     text-align: center;
   }
-  .head{
-    padding-left: 0vh;
-    display: flex;
-    justify-content: center;
-  }
-  .head .img{
+  .container .img{
     background-size: cover;
+    border-radius: 2vw;
+    position: relative;
+    display: block;
+    justify-content: center;
     width: 77vw;
     height: 40vw;
-    text-align: center;
-    border-radius: 2vw;
+    margin-left: 11vw;
+    margin-top: 7.5vw;
   }
   .image .tatt{
     background-size: cover;
@@ -101,8 +100,7 @@ body {
     z-index: 1;
     font-style: bold;
     display: block;
-    position: absolute;
-    padding-top: 25vw;
+    position: relative;
     font-family: "Papyrus";
   }
 
@@ -111,7 +109,6 @@ body {
     display: block;
     color: #f1f1f1;
     font-size: 1.4vw;
-    padding-bottom: 3vw;
     padding-left: 3vw;
     padding-right: 3vw;
     font-family: "Papyrus";
