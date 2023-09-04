@@ -75,7 +75,6 @@ body {
     justify-content: center;
   }
   .head .img{
-    background-image: url(../img/try.jpg);
     background-size: cover;
     width: 77vw;
     height: 40vw;
