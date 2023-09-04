@@ -91,7 +91,6 @@ body {
 
   .title-box {
     padding: 20px;
-    border: 2px solid #000;
     display: flex; /* Use flexbox for centering */
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
