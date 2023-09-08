@@ -235,6 +235,62 @@ body {
   border-radius: 15vw;
   transition: background-image 0.2s ease-in-out;
 }
+.detail .det13{
+  background-image: url(../img/Brush.png);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det14{
+  background-image: url(../img/InkSplash.JPG);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det15{
+  background-image: url(../img/Photography.png);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det16{
+  background-image: url(../img/Photohunt.png);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det17{
+  background-image: url(../img/Visage.jpg);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det18{
+  background-image: url(../img/mun1.jpg);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+.detail .det19{
+  background-image: url(../img/Rangoli.png);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
 
 /* Dropdown Styles */
 .dropdown {
