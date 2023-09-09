@@ -148,7 +148,7 @@ body {
   background-image: url(../img/Valo.jpeg);
   background-size: cover;
   width: 16vw;
-  height: 20vw;
+  height: 22vw;
   text-align: center;
   border-radius: 1vw;
 }
@@ -156,8 +156,8 @@ body {
 .detail .det3 {
   background-image: url(../img/Tarangini.jpg);
   background-size: cover;
-  width: 16vw;
-  height: 20vw;
+  width: 18vw;
+  height: 22vw;
   text-align: center;
   border-radius: 1vw;
 }
