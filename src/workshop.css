@@ -143,6 +143,24 @@ body {
   text-align: center;
   border-radius: 1vw;
 }
+
+.detail .det2 {
+  background-image: url(../img/Tarangini.jpg);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;
+}
+
+.detail .det3 {
+  background-image: url(../img/Tarangini.jpg);
+  background-size: cover;
+  width: 16vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;
+}
 .detail .det12{
   background-image: url(../img/21.png);
   background-size: cover;
