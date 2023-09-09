@@ -139,7 +139,7 @@ body {
   background-image: url(../img/BGMI.png);
   background-size: cover;
   width: 16vw;
-  height: 20vw;
+  height: 22vw;
   text-align: center;
   border-radius: 1vw;
 }
@@ -147,7 +147,7 @@ body {
 .detail .det2 {
   background-image: url(../img/Valo.jpeg);
   background-size: cover;
-  width: 16vw;
+  width: 18vw;
   height: 22vw;
   text-align: center;
   border-radius: 1vw;
