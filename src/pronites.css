@@ -201,7 +201,14 @@ body {
   text-align: center;
   border-radius: 2vw;
 }
-
+.detail .det6 {
+  background-image: url(../img/Sunidhi.jpeg);
+  background-size: cover;
+  width: 20vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 2vw;
+}
 /* Dropdown Styles */
 .dropdown {
   display: none;
