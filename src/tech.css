@@ -150,7 +150,7 @@ body {
 
 
 .detail .det1 {
-  background-image: url(../img/Gaming.jp);
+  background-image: url(../img/Robonautica.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -158,7 +158,7 @@ body {
   border-radius: 2vw;
 }
 .detail .det2{
-  background-image: url(../img/Design_Hackathon.png);
+  background-image: url(../img/Coding.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -166,7 +166,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det3{
-  background-image: url(../img/RC_Nitro.jpg);
+  background-image: url(../img/Science_Busker.jpg);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -174,7 +174,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det4{
-  background-image: url(../img/ROBOTICS.jpg);
+  background-image: url(../img/Quiz.png);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -182,7 +182,7 @@ body {
   border-radius: 1vw;  
 }
 .detail .det5{
-  background-image: url(../img/Imaging_Expert.jpg);
+  background-image: url(../img/INNOVATE.png);
   background-size: cover;
   width: 14vw;
   height: 20vw;
@@ -190,7 +190,25 @@ body {
   border-radius: 10px;  
 }
 .detail .det6{
-  background-image: url(../img/Virtual_Trading.jpg);
+  background-image: url(../img/Imaging_Expert.jpg);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+
+.detail .det7{
+  background-image: url(../img/Design_Hackathon.png);
+  background-size: cover;
+  width: 14vw;
+  height: 20vw;
+  text-align: center;
+  border-radius: 1vw;  
+}
+
+.detail .det8{
+  background-image: url(../img/Datathon.png);
   background-size: cover;
   width: 14vw;
   height: 20vw;
