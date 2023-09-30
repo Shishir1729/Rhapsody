@@ -153,7 +153,7 @@ body {
   background-image: url(../img/Robonautica.jpg);
   background-size: cover;
   width: 14vw;
-  height: 20vw;
+  height: 22vw;
   text-align: center;
   border-radius: 2vw;
 }
@@ -161,14 +161,14 @@ body {
   background-image: url(../img/Coding.jpg);
   background-size: cover;
   width: 14vw;
-  height: 20vw;
+  height: 21vw;
   text-align: center;
   border-radius: 1vw;  
 }
 .detail .det3{
   background-image: url(../img/Science_Busker.jpg);
   background-size: cover;
-  width: 14vw;
+  width: 15vw;
   height: 20vw;
   text-align: center;
   border-radius: 1vw;  
@@ -176,7 +176,7 @@ body {
 .detail .det4{
   background-image: url(../img/Quiz.png);
   background-size: cover;
-  width: 14vw;
+  width: 16vw;
   height: 20vw;
   text-align: center;
   border-radius: 1vw;  
@@ -184,7 +184,7 @@ body {
 .detail .det5{
   background-image: url(../img/INNOVATE.png);
   background-size: cover;
-  width: 14vw;
+  width: 16vw;
   height: 20vw;
   text-align: center;
   border-radius: 10px;  
@@ -192,7 +192,7 @@ body {
 .detail .det6{
   background-image: url(../img/Imaging_Expert.jpg);
   background-size: cover;
-  width: 14vw;
+  width: 16vw;
   height: 20vw;
   text-align: center;
   border-radius: 1vw;  
@@ -201,8 +201,8 @@ body {
 .detail .det7{
   background-image: url(../img/Design_Hackathon.png);
   background-size: cover;
-  width: 14vw;
-  height: 20vw;
+  width: 16vw;
+  height: 19vw;
   text-align: center;
   border-radius: 1vw;  
 }
@@ -210,7 +210,7 @@ body {
 .detail .det8{
   background-image: url(../img/Datathon.png);
   background-size: cover;
-  width: 14vw;
+  width: 16vw;
   height: 20vw;
   text-align: center;
   border-radius: 1vw;  
