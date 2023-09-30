@@ -283,6 +283,14 @@ body {
   text-align: center;
   border-radius: 1vw;  
 }
+.detail .det20{
+  background-image: url(../img/deepti.jpeg);
+  background-size: cover;
+  width: 21vw;
+  height: 21vw;
+  text-align: center;
+  border-radius: 15vw;
+}
 
 /* Dropdown Styles */
 .dropdown {
