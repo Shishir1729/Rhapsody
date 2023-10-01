@@ -48,7 +48,7 @@ body {
   .navbar li a {
     display: block;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 0.5vw 2vh;
     text-decoration: none;
   }
