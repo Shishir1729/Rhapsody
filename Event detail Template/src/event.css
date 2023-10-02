@@ -69,17 +69,34 @@ body {
     margin-top: 12vh;
     text-align: center;
   }
-  .container .img{
-    background-size: cover;
+  .cover img{
     border-radius: 2vw;
-    position: relative;
-    display: block;
     justify-content: center;
     width: 77vw;
     height: 40vw;
-    margin-left: 11vw;
-    margin-top: 7.5vw;
+    margin-left: 5vw;
+    filter: blur(0.9);
+    filter: brightness(0.3);
+    filter: opacity(0.4);
   }
+
+  .cover{
+    position: relative;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+  }
+  .container{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-40%, -40%);
+    background-size: cover;
+  }
+  .container .title{
+    object-position: center;
+  }
+
   .image .tatt{
     background-size: cover;
     width: 40vw;
