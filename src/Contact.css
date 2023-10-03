@@ -7,7 +7,7 @@ body {
   font-family: Libre Baskerville;
 }
 .black-bg {
-    background: linear-gradient(to bottom, #000000, #141010, #302626,#5e2f2f);
+    background: #12202c;
     padding: 20px;
     color: white;
   }
@@ -57,9 +57,9 @@ body {
 }
 
 .navbar li a:hover {
-  background-color:#47c7f5;
+  background-color:#feffff;
   transition: background-color 0.3s ease-in-out;
-  color: white;
+  color: #12202c;
   border-radius: 1vw;
 }
 
@@ -99,14 +99,14 @@ body {
 }
 
 .contact-box {
-  padding: 2vh;
+  padding: 1vh;
 }
 
 .contact-details {
   background-color: transparent;
   color: white;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   padding: 3vw;
   text-align: center;
   border-radius: 3vw;
@@ -140,16 +140,16 @@ body {
 .detail .det1 {
   background-image: url(../img/1.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
 }
 .detail .det1:hover {
   background-image: url(../img/2.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -158,16 +158,16 @@ body {
 .detail .det2{
   background-image: url(../img/3.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det2:hover {
   background-image: url(../img/4.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -175,16 +175,16 @@ body {
 .detail .det3{
   background-image: url(../img/11.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det3:hover {
   background-image: url(../img/12.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -192,16 +192,16 @@ body {
 .detail .det5{
   background-image: url(../img/7.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det5:hover {
   background-image: url(../img/8.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -209,16 +209,16 @@ body {
 .detail .det6{
   background-image: url(../img/9.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det6:hover {
   background-image: url(../img/10.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -226,16 +226,16 @@ body {
 .detail .det7{
   background-image: url(../img/13.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det7:hover {
   background-image: url(../img/14.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -243,16 +243,16 @@ body {
 .detail .det8{
   background-image: url(../img/15.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det8:hover {
   background-image: url(../img/16.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;
@@ -260,16 +260,16 @@ body {
 .detail .det9{
   background-image: url(../img/17.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;  
 }
 .detail .det9:hover {
   background-image: url(../img/18.png);
   background-size: cover;
-  width: 15vw;
-  height: 15vw;
+  width: 20vw;
+  height: 20vw;
   text-align: center;
   border-radius: 2vw;
   transition: background-image 0.2s ease-in-out;

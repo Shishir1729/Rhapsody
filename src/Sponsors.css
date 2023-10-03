@@ -49,14 +49,14 @@ body {
 }
 
 .navbar li a:hover {
-  background-color:#47c7f5;
+  background-color:#feffff;
   transition: background-color 0.3s ease-in-out;
-  color: white;
+  color: #12202c;
   border-radius: 1vw;
 }
 
   .black-bg {
-    background: linear-gradient(to bottom,#191d20, #3a4853 , #536878 );
+    background: #12202c;
     padding: 20px;
     color: white;
   }

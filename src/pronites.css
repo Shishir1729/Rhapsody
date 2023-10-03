@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Libre Baskerville;
-    background: linear-gradient(to bottom, #000000,#000000 ,#141010, #582020,#8f2e2e);
+    background:#12202c;
     min-height: 100vh;
   }
 
@@ -51,9 +51,9 @@ body {
   }
   
   .navbar li a:hover {
-    background-color:#47c7f5;
+    background-color:#feffff;
     transition: background-color 0.3s ease-in-out;
-    color: white;
+    color: #12202c;
     border-radius: 1vw;
   }
   .black {
@@ -78,7 +78,7 @@ body {
 .navbar2 {
   background-color: transparent;
   color: white;
-  padding: 2vh;
+  padding: 1.5vh;
   margin-top: 12vh;
   text-align: center;
 }
@@ -86,7 +86,6 @@ body {
   background-color: transparent;
   color: white;
   text-align: center;
-  padding: 2vh;
   font-size: 2vw;
 }
 /* Third Navbar Styles */
@@ -94,12 +93,12 @@ body {
   background-color: transparent;
   color: white;
   text-align: center;
-  padding: 2vh;
+  padding: 1.5vh;
 }
 .navbar4 {
   background-color: transparent;
   color: white;
-  padding: 2vh;
+  padding: 1.5vh;
   margin-top: 6vh;
   text-align: center;
 }
@@ -163,7 +162,9 @@ body {
   font-weight: bold;
   color: transparent;
 }
-
+.contact-box:hover{
+  transform: scale(1.2);
+}
 
 
 
@@ -227,8 +228,8 @@ body {
   justify-content: center;
   display: inline-block;
   text-decoration: none;
-  color: white;
-  background-color: #140f2e; /* Gray color for the button */
+  color: #12202c;
+  background-color: #ffffff; /* Gray color for the button */
   width: 20vw;
   height: 3vw;
   text-align: center;
@@ -236,11 +237,11 @@ body {
   font-size: 2.8vw;
   font-style: bold;
   padding: 1vw;
-  font-family: "Garamond";
+  font-family: 'Young Serif';
 }
 
 .register-button2:hover {
-  background-color: #140f2e; /* Slightly darker shade of gray on hover */
+  background-color: #ffffff; /* Slightly darker shade of gray on hover */
   transform: scale(1.1);
 }
 /* Dropdown Styles */

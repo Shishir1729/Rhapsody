@@ -6,7 +6,7 @@ body {
   padding: 0;
   font-family: Libre Baskerville;
   min-height: 100vh;
-  background: linear-gradient(to bottom, #000000,#000000 ,#141010, #582020,#8f2e2e);
+  background: #12202c;
 }
 .black-bg {
     background: transparent;
@@ -59,9 +59,9 @@ body {
 }
 
 .navbar li a:hover {
-  background-color:#47c7f5;
+  background-color:#feffff;
   transition: background-color 0.3s ease-in-out;
-  color: white;
+  color: #12202c;
   border-radius: 1vw;
 }
 

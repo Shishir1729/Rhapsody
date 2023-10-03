@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Libre Baskerville;
-  background: linear-gradient(to bottom, #000000,#000000 ,#141010, #582020,#8f2e2e);
+  background: #12202c;
   min-height: 100vh;
 }
 
@@ -54,9 +54,9 @@ body {
 }
 
 .navbar li a:hover {
-  background-color:#47c7f5;
+  background-color:#feffff;
   transition: background-color 0.3s ease-in-out;
-  color: white;
+  color: #12202c;
   border-radius: 1vw;
 }
 
