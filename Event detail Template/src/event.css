@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Libre Baskerville;
-    background:linear-gradient(to bottom,black,#0f0e0e,#2b2323,#0e0b0b,#070101,#070101);
+    background:#12202c;
     min-height: 100vh;
   }
   
@@ -13,7 +13,7 @@ body {
     position: absolute;
     top: 0;
     width: 100%;
-    background-color: black;
+    background-color: #12202c;
     z-index: 1;
     display: flex;
     align-items: center;
@@ -55,9 +55,9 @@ body {
   }
   
   .navbar li a:hover {
-    background-color:#47c7f5;
+    background-color:#ffffff;
     transition: background-color 0.3s ease-in-out;
-    color: white;
+    color: #12202c;
     border-radius: 1vw;
   }
   
@@ -75,8 +75,8 @@ body {
     width: 77vw;
     height: 40vw;
     margin-left: 5vw;
-    filter: blur(0.9);
-    filter: brightness(0.3);
+    filter: blur(0.5);
+    filter: brightness(0.1);
     filter: opacity(0.4);
   }
 
@@ -112,7 +112,7 @@ body {
     padding-right: 3vw;
   }
   .title{
-    font-size: 8vw;
+    font-size: 6vw;
     color: yellow;
     z-index: 1;
     font-style: bold;
@@ -188,8 +188,8 @@ body {
     justify-content: center;
     display: inline-block;
     text-decoration: none;
-    color: white;
-    background-color: #0c033b; /* Gray color for the button */
+    color: #12202c;
+    background-color: #ffffff; /* Gray color for the button */
     width: 10vw;
     height: 3vw;
     text-align: center;
@@ -201,7 +201,7 @@ body {
   }
   
   .register-button:hover {
-    background-color: #0c033b; /* Slightly darker shade of gray on hover */
+    background-color: #ffffff; /* Slightly darker shade of gray on hover */
     transform: scale(1.1);
   }
   
