@@ -82,7 +82,13 @@ body {
   margin-top: 12vh;
   text-align: center;
 }
-
+.pass{
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 2vh;
+  font-size: 2vw;
+}
 /* Third Navbar Styles */
 .navbar3 {
   background-color: transparent;
@@ -208,6 +214,34 @@ body {
   height: 20vw;
   text-align: center;
   border-radius: 2vw;
+}
+.register2{
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 5vh;
+}
+
+.register-button2 {
+  position: relative;
+  justify-content: center;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: #140f2e; /* Gray color for the button */
+  width: 20vw;
+  height: 3vw;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 2.8vw;
+  font-style: bold;
+  padding: 1vw;
+  font-family: "Garamond";
+}
+
+.register-button2:hover {
+  background-color: #140f2e; /* Slightly darker shade of gray on hover */
+  transform: scale(1.1);
 }
 /* Dropdown Styles */
 .dropdown {
