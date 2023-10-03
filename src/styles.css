@@ -50,9 +50,9 @@ html,body {
   }
   
   .navbar li a:hover {
-    background-color:#47c7f5;
+    background-color:#feffff;
     transition: background-color 0.3s ease-in-out;
-    color: white;
+    color: #12202c;
     border-radius: 1vw;
   }
   
@@ -97,7 +97,7 @@ html,body {
     height: 15vw /* Adjust the width as per your requirements */
   }
   .black-bg {
-    background-color: black;
+    background-color: #12202c;
     overflow: hidden;
   }
   
@@ -146,7 +146,7 @@ html,body {
     display: flex;
     align-items: center;
     padding: 20px;
-    background-color: black;
+    background-color: #12202c;
     margin-top: 20px;
   }
 
@@ -178,7 +178,7 @@ html,body {
 
 
 .socials {
-  background-color:#0e0b0b; 
+  background-color:#000000; 
   padding: 5vh 0;
   text-align: center;
   bottom: 0;
