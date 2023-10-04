@@ -241,7 +241,7 @@ body {
   transition: background-image 0.2s ease-in-out;
 }
 .detail .det8{
-  background-image: url(../img/15.png);
+  background-image: url(../img/suresh.png);
   background-size: cover;
   width: 20vw;
   height: 20vw;
@@ -249,7 +249,7 @@ body {
   border-radius: 2vw;  
 }
 .detail .det8:hover {
-  background-image: url(../img/16.png);
+  background-image: url(../img/sures.png);
   background-size: cover;
   width: 20vw;
   height: 20vw;
