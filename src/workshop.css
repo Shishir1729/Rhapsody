@@ -138,8 +138,8 @@ body {
 .detail .det1 {
   background-image: url(../img/Workshop1.jpg);
   background-size: cover;
-  width: 16vw;
-  height: 22vw;
+  width: 17vw;
+  height: 21vw;
   text-align: center;
   border-radius: 1vw;
 }
@@ -147,8 +147,8 @@ body {
 .detail .det2 {
   background-image: url(../img/Workshop2.jpg);
   background-size: cover;
-  width: 18vw;
-  height: 22vw;
+  width: 17vw;
+  height: 21vw;
   text-align: center;
   border-radius: 1vw;
 }
