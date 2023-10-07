@@ -78,8 +78,8 @@ body {
 .navbar2 {
   background-color: transparent;
   color: white;
-  padding: 1.5vh;
-  margin-top: 12vh;
+  padding: 0.5vh;
+  margin-top: 10vh;
   text-align: center;
 }
 .pass{
@@ -93,13 +93,12 @@ body {
   background-color: transparent;
   color: white;
   text-align: center;
-  padding: 1.5vh;
+  padding: 0.5vh;
 }
 .navbar4 {
   background-color: transparent;
   color: white;
-  padding: 1.5vh;
-  margin-top: 6vh;
+  padding: 0.5vh;
   text-align: center;
 }
 
@@ -114,7 +113,7 @@ body {
     text-align: center;
     border-radius: 5px;
     font-size: 1.5vw;
-    padding: 1vw;
+    padding: 0.5vh;
 }
 
 .register-button:hover {
@@ -135,7 +134,7 @@ body {
 .contact-box {
   padding-left: 2vw;
   padding-right: 2vw;
-  padding-bottom: 3vw;
+  padding-bottom:0vw;
 }
 
 .contact-details {
@@ -220,7 +219,7 @@ body {
   background-color: transparent;
   color: white;
   text-align: center;
-  padding: 5vh;
+  padding: 1vh;
 }
 
 .register-button2 {
