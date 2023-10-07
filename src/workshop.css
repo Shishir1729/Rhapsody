@@ -97,17 +97,15 @@ body {
 }
 
 .contact-box {
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 3vw;
+  padding: 1.5vh;
 }
 
 .contact-details {
   background-color: transparent;
   color: white;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 3vw;
+  width: 20vw;
+  height: 20vw;
+  padding: 3vw;
   text-align: center;
   border-radius: 3vw;
 }
@@ -122,7 +120,7 @@ body {
 .detail .value {
   position: relative; /* Add position relative to create stacking context */
   z-index: 1; /* Ensure the text appears above other elements */
-  font-size: 1.3vw;
+  font-size: 1vw;
   font-weight: bold;
   color: transparent;
 }
@@ -138,8 +136,8 @@ body {
 .detail .det1 {
   background-image: url(../img/Workshop1.jpg);
   background-size: cover;
-  width: 17vw;
-  height: 21vw;
+  width: 16vw;
+  height: 22vw;
   text-align: center;
   border-radius: 1vw;
 }
@@ -147,20 +145,12 @@ body {
 .detail .det2 {
   background-image: url(../img/Workshop2.jpg);
   background-size: cover;
-  width: 17vw;
-  height: 21vw;
-  text-align: center;
-  border-radius: 1vw;
-}
-
-.detail .det3 {
-  background-image: url(../img/Clash Royale.jpg);
-  background-size: cover;
   width: 18vw;
   height: 22vw;
   text-align: center;
   border-radius: 1vw;
 }
+
 .detail .det12{
   background-image: url(../img/sagnik.jpg);
   background-size: cover;
