@@ -368,7 +368,47 @@ body {
   .navbar ul {
     display: none;
   }
-
+  .contact-section {
+    margin-top: 2vh;
+  }
+  
+  .contact-row {
+    display: list-item;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .contact-box {
+    padding-left: 30vw;
+    padding-right: 30vw;
+    padding-bottom: 3vw;
+  }
+  
+  .contact-details {
+    background-color: transparent;
+    color: white;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 3vw;
+    text-align: center;
+    border-radius: 3vw;
+  }
+  
+  
+  .detail {
+    margin-bottom: 2vh;
+    position: relative;
+    overflow: hidden; /* Ensure the child elements don't overflow */
+  }
+  
+  .detail .value {
+    position: relative; /* Add position relative to create stacking context */
+    z-index: 1; /* Ensure the text appears above other elements */
+    font-size: 1.3vw;
+    font-weight: bold;
+    color: transparent;
+  }
   .dropdown-content {
     display: none;
     position: fixed;
@@ -376,6 +416,52 @@ body {
     left: 0;
     width: 100%;
   }
+  .detail .det1{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det3{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det7{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det4{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det2{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det9{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det10{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det18{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det8{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det13{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det16{
+    width: 32vw;
+    height: 45vw;
+  }
+
+  
 
   .dropdown.show .dropdown-content {
     display: block;

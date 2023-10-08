@@ -223,15 +223,7 @@ body {
   text-align: center;
   border-radius: 15vw;
 }
-.detail .det12:hover{
-  background-image: url(../img/20.png);
-  background-size: cover;
-  width: 21vw;
-  height: 21vw;
-  text-align: center;
-  border-radius: 15vw;
-  transition: background-image 0.2s ease-in-out;
-}
+
 
 /* Dropdown Styles */
 .dropdown {
@@ -308,6 +300,79 @@ body {
 @media screen and (orientation: portrait) {
   .navbar ul {
     display: none;
+  }
+  
+  .contact-section {
+    margin-top: 2vh;
+  }
+  
+  .contact-row {
+    display: list-item;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .contact-box {
+    padding-left: 30vw;
+    padding-right: 30vw;
+    padding-bottom: 3vw;
+  }
+  
+  .contact-details {
+    background-color: transparent;
+    color: white;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 3vw;
+    text-align: center;
+    border-radius: 3vw;
+  }
+  
+  
+  .detail {
+    margin-bottom: 2vh;
+    position: relative;
+    overflow: hidden; /* Ensure the child elements don't overflow */
+  }
+  
+  .detail .value {
+    position: relative; /* Add position relative to create stacking context */
+    z-index: 1; /* Ensure the text appears above other elements */
+    font-size: 1.3vw;
+    font-weight: bold;
+    color: transparent;
+  }
+  .detail .det1{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det2{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det3{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det4{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det5{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det6{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det7{
+    width: 32vw;
+    height: 45vw;
+  }
+  .detail .det8{
+    width: 32vw;
+    height: 45vw;
   }
 
   .dropdown-content {
