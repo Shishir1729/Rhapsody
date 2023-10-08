@@ -9,11 +9,12 @@ html,body {
     position: absolute;
     top: 0;
     width: 100%;
-    background-color: transparent;
+    background-color: #000000c9;
     z-index: 1;
     display: flex;
     align-items: center;
   }
+  
 
   .logo{
     width: 10vw;
@@ -93,8 +94,8 @@ html,body {
   }
   
   .logo-overlay img {
-    width: 60vw;
-    height: 15vw /* Adjust the width as per your requirements */
+    width: 100%;
+    height: 15% /* Adjust the width as per your requirements */
   }
   .black-bg {
     background-color: #12202c;
@@ -252,7 +253,95 @@ html,body {
   .navbar ul {
     display: none;
   }
-
+  
+  .navbar{
+    margin-bottom: 3vw;
+    background-color: #000000c9;
+  }
+  .logo{
+    width: 20vw;
+    height: 20vh;
+  }
+  
+  .logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .navbar2 {
+    background-color: transparent;
+    color: white;
+    padding: 2vh;
+    margin-top: 15vh;
+    text-align: center;
+  }
+  .socials img {
+    width: 10vw;
+    height: 10vw;
+  }
+  .socials img:hover{
+    transform: scale(1);
+  }
+  .socials ul li {
+    list-style-type: none;
+    margin: 0 5vw;
+  }
+  .logo-overlay {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    object-position: center;
+    transform: translate(-50%, -50%);
+    background-image:(img src="Test Background.jpeg"),rgba(0,0,0,0.75);
+    background-size: cover;
+  }
+  
+  .logo-overlay img {
+    width: 140%;
+    height: 50% /* Adjust the width as per your requirements */
+  }
+  .text-image-container{
+    display: list-item;
+    list-style: none;
+  }
+  .box{
+    display: list-item;
+    list-style: none;
+  }
+  .box .image {
+    display: none;
+  }
+  .box .text-content p{
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .box .text-content h2{
+    font-size: 6vw;
+    padding: 1vw;
+    padding-left: 25%;
+  }
+  .text-content h1{
+    font-size: 6vw;
+    font-style: 'Young Serif';
+    font-style: bold;
+    padding: 1vw;
+    padding-left: 30%;
+  }
+  .scrollable-images {
+    background-color: transparent;
+    align-items: center;
+  }
+  
+  .scrollable-images img {
+    display: block;
+    width: 95%;
+    height: 75%;
+    margin: 0 auto;
+  }
+  .text-content p{
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
   .dropdown-content {
     display: none;
     position: fixed;
@@ -283,7 +372,7 @@ html,body {
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: black;
+    background-color: #000000c9;
     min-width: 20vw;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
