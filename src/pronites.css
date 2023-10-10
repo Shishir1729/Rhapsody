@@ -324,6 +324,11 @@ body {
     height: 10vh;
     margin-left: 5vw;
   }
+  .navbar{
+    position: fixed;
+    background-color: #12202c;
+    box-shadow: 0px 8px 16px 0px #0d1720;
+  }
   
   .navbar .logo img{
     scale: 2;
