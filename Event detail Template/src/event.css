@@ -69,6 +69,7 @@ body {
     margin-top: 12vh;
     text-align: center;
   }
+  
   .cover img{
     border-radius: 2vw;
     justify-content: center;
@@ -85,6 +86,7 @@ body {
     display: block;
     object-fit: cover;
     object-position: center;
+    margin-left: 5vw;
   }
   .container{
     position: absolute;
@@ -180,7 +182,7 @@ body {
     background-color: transparent;
     color: white;
     text-align: center;
-    padding: 5vh;
+    padding: 7vh;
   }
   
   .register-button {
@@ -250,6 +252,7 @@ body {
   }
   
  
+
 /* Dropdown Styles */
 .dropdown {
   display: none;
@@ -268,14 +271,14 @@ body {
   top: 100%;
   background-color: #f9f9f9;
   min-width: 160px;
-  box-shadow: 0 8px 16px 0 #12202c;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   z-index: 2;
 }
 
 .dropdown-content a {
   display: block;
   padding: 10px;
-  color: #12202c;
+  color: black;
   text-decoration: none;
 }
 
@@ -288,13 +291,142 @@ body {
   .navbar ul {
     display: none;
   }
+  .logo{
+    width: 12vw;
+    height: 10vh;
+    margin-left: 5vw;
+  }
+  
+  .navbar .logo img{
+    scale: 2;
+  }
+  .logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .navbar2 {
+    background-color: transparent;
+    color: white;
+    padding: 2vh;
+    margin-top: 9vh;
+    text-align: center;
+  }
+  .socials img {
+    width: 10vw;
+    height: 10vw;
+  }
+  .socials img:hover{
+    transform: scale(1);
+  }
+  .socials ul li {
+    list-style-type: none;
+    margin: 0 5vw;
+  }
+  
+  .contact-section {
+    margin-top: 2vh;
+  }
+  .image{
+    display: none;
+  }
+  .title{
+    scale:1.2;
+  }
+  .txt{
+    scale:1.2;
+  }
+  .title{
+    font-size: 6vw;
+    color: white;
+    z-index: 1;
+    font-style: bold;
+    display: block;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
 
+  .txt{
+    position: relative;
+    display: block;
+    color: #f1f1f1;
+    font-size: 1.4vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .time{
+    justify-content: center;
+    display: block;
+    padding-left: 15vw;
+    padding-top: 5vw;  
+  }
+
+  .timeline{
+    font-size: 3vw;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+    font-style: bold;
+    display: block;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .line{
+    display: block;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3vw;
+    color: white;
+    
+
+  }
+  .line ul li{
+    list-style: none;
+    display: block;
+  }
+
+  .eli{
+    justify-content: center;
+    display: block;
+    margin-right: -30vw;  
+    font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .eligi{
+    font-size: 4vw;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+    font-style: bold;
+    display: block;
+    justify-content: center;
+  }
+   
+  .container{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .container .title{
+    object-position: center;
+    color:white
+  }
+ 
   .dropdown-content {
     display: none;
     position: fixed;
     top: 100%;
     left: 0;
     width: 100%;
+  }
+ 
+  .register-button{
+    width: 20vw;
+    height: 6vw;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 5vw;
+    font-style: bold;
+    padding: 1vw;
+    font-family: "Garamond";
   }
 
   .dropdown.show .dropdown-content {
@@ -308,6 +440,7 @@ body {
     padding: 1vw;
     cursor: pointer;
     border: none;
+    font-size: 5vw;
   }
   
   .dropdown {
