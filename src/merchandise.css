@@ -311,6 +311,11 @@ body {
   .navbar ul {
     display: none;
   }
+  .navbar{
+    position: fixed;
+    background-color: #12202c;
+    box-shadow: 0px 8px 16px 0px #0d1720;
+  }
   .logo{
     width: 12vw;
     height: 10vh;
