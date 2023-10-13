@@ -67,19 +67,47 @@ body {
     text-align: center;
   }
   
+  .sponsor-images img{
+    width: calc(22% - 15px); /* Adjust the width as needed */
+    height: auto;
+    margin-left: 5vw;
+    margin-bottom: 2.5vw;
+  }
   .sponsor-images {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
   }
-  
-  .sponsor-images img {
+  .Group{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+  }
+  .Group .images img {
+    scale: 2.5;
+    margin-top: 2vw;
+  }
+
+  .Title {
+    position: relative;
+    justify-content: center;
+  }
+  .images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: -5vw;
+  }
+  .Title .images img {
     width: calc(22% - 15px); /* Adjust the width as needed */
     height: auto;
     margin-left: 5vw;
     margin-bottom: 2.5vw;
   }
+  
+
   
   .title-sponsor {
     width: 100%;
@@ -221,6 +249,22 @@ body {
     margin-left: 5vw;
     margin-bottom: 2.5vw;
   }
+  .Title .images img {
+    width: calc(40% - 15px); /* Adjust the width as needed */
+    height: auto;
+    margin-left: 5vw;
+    margin-bottom: 2.5vw;
+  }
+  .Group{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+  }
+  .Group .images img {
+    scale: 2;
+    margin-top: 2vw;
+  }
+
   .title-box {
     padding: 20px;
     display: flex; /* Use flexbox for centering */
