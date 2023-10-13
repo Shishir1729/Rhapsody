@@ -264,7 +264,9 @@ body {
     scale: 2;
     margin-top: 2vw;
   }
-
+  .Title h2{
+    font-size: 3vw;
+  }
   .title-box {
     padding: 20px;
     display: flex; /* Use flexbox for centering */
